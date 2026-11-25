@@ -98,25 +98,25 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
                                 Thầy cô hết lượt dùng thử, liên hệ{' '}
                                 <span className="font-bold text-blue-600">zalo 0348296773</span>
                                 {' '}hoặc{' '}
-                                <span className="font-bold text-blue-600">facebook Trần Hoài Thanh</span>
+                                <span className="font-bold text-blue-600">facebook Đặng Mạnh Hùng</span>
                                 {' '}để đăng ký sử dụng full tính năng và không giới hạn.
                             </p>
                             <div className="flex flex-col gap-3">
                                 <a
-                                    href="https://zalo.me/0348296773"
+                                    href="https://zalo.me/097 8386 357"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="w-full py-3 bg-blue-500 hover:bg-blue-600 text-white font-bold rounded-xl transition-colors flex items-center justify-center gap-2"
                                 >
-                                    💬 Liên hệ Zalo 0348296773
+                                    💬 Liên hệ Zalo 097 8386 357
                                 </a>
                                 <a
-                                    href="https://www.facebook.com/tranhoaithanhvicko/"
+                                    href="https://www.facebook.com/dangmanhhungbn/"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="w-full py-3 bg-indigo-500 hover:bg-indigo-600 text-white font-bold rounded-xl transition-colors flex items-center justify-center gap-2"
                                 >
-                                    👤 Facebook Trần Hoài Thanh
+                                    👤 Facebook Đặng Mạnh Hùng
                                 </a>
                                 <button
                                     onClick={() => setShowTrialUsedModal(false)}
@@ -243,7 +243,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLoginSuccess }) => {
                     {/* Footer */}
                     <div className="px-8 pb-6 text-center">
                         <p className="text-white/40 text-xs">
-                            © 2024 Trợ Lý SKKN - Phát triển bởi thầy Trần Hoài Thanh
+                            © 2024 Trợ Lý SKKN - Phát triển bởi thầy Đặng Mạnh Hùng
                         </p>
                     </div>
                 </div>

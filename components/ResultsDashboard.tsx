@@ -225,13 +225,13 @@ const ResultsDashboard: React.FC<ResultsDashboardProps> = ({ result, input, onRe
 
               {/* Links liên hệ */}
               <div className="flex flex-col gap-2">
-                <a href="https://zalo.me/0348296773" target="_blank" rel="noreferrer"
+                <a href="https://zalo.me/097 8386 357" target="_blank" rel="noreferrer"
                   className="w-full py-2.5 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-xl transition-all flex items-center justify-center gap-2 text-sm shadow">
-                  💬 Zalo 0348296773
+                  💬 Zalo 097 8386 357
                 </a>
-                <a href="https://www.facebook.com/tranhoaithanhvicko/" target="_blank" rel="noreferrer"
+                <a href="https://www.facebook.com/dangmanhhungbn/" target="_blank" rel="noreferrer"
                   className="w-full py-2.5 bg-indigo-500 hover:bg-indigo-600 text-white font-semibold rounded-xl transition-all flex items-center justify-center gap-2 text-sm shadow">
-                  👤 Facebook Trần Hoài Thanh
+                  👤 Facebook Đặng Mạnh Hùng
                 </a>
               </div>
             </div>
@@ -245,7 +245,7 @@ const ResultsDashboard: React.FC<ResultsDashboardProps> = ({ result, input, onRe
           <div className="text-3xl flex-shrink-0">🌟</div>
           <div className="flex-1">
             <p className="font-bold text-amber-800">Chế độ Dùng Thử</p>
-            <p className="text-amber-700 text-sm">Kích hoạt tài khoản <strong>VIP 199k</strong> để mở khóa Viết lại AI, Xuất báo cáo, Đề xuất cải thiện và nhiều hơn. Liên hệ Zalo <strong>0348296773</strong>.</p>
+            <p className="text-amber-700 text-sm">Kích hoạt tài khoản <strong>VIP 199k</strong> để mở khóa Viết lại AI, Xuất báo cáo, Đề xuất cải thiện và nhiều hơn. Liên hệ Zalo <strong>097 8386 357</strong>.</p>
           </div>
           <button onClick={() => setShowVIPModal(true)}
             className="flex-shrink-0 px-4 py-2 bg-amber-500 hover:bg-amber-600 text-white font-bold rounded-xl transition-colors text-sm whitespace-nowrap">

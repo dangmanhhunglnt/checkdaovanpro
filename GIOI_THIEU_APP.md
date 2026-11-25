@@ -83,8 +83,8 @@ Chấm điểm theo tiêu chí **Thông tư 27/2020/TT-BGDĐT**:
 
 ## 📞 Liên hệ
 
-- **Facebook**: [tranhoaithanhvicko](https://www.facebook.com/tranhoaithanhvicko/)
-- **Zalo**: 0348296773
+- **Facebook**: [dangmanhhungbn](https://www.facebook.com/dangmanhhungbn/)
+- **Zalo**: 097 8386 357
 
 ---
 

@@ -162,13 +162,13 @@ Qua áp dụng sáng kiến, chất lượng môn Lịch sử lớp 5A đã đư
             <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-4">
               <p className="text-sm font-semibold text-emerald-800 mb-2">💬 Liên hệ hỗ trợ:</p>
               <a
-                href="https://zalo.me/0348296773"
+                href="https://zalo.me/097 8386 357"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 text-emerald-600 hover:text-emerald-700 font-medium text-sm"
               >
                 <ExternalLink size={16} className="flex-shrink-0" />
-                Zalo 0348296773
+                Zalo 097 8386 357
               </a>
             </div>
 

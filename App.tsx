@@ -488,7 +488,7 @@ const App: React.FC = () => {
               <p className="text-sm md:text-base">
                 <span className="text-gray-500">Phát triển bởi thầy </span>
                 <span className="font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-                  Trần Hoài Thanh
+                  Đặng Mạnh Hùng
                 </span>
               </p>
 
@@ -623,19 +623,19 @@ const App: React.FC = () => {
               <div className="p-6 text-center">
                 <p className="text-gray-700 text-base leading-relaxed mb-6">
                   Thầy cô hết lượt dùng thử, liên hệ{' '}
-                  <span className="font-bold text-blue-600">zalo 0348296773</span>
+                  <span className="font-bold text-blue-600">zalo 097 8386 357</span>
                   {' '}hoặc{' '}
-                  <span className="font-bold text-blue-600">facebook Trần Hoài Thanh</span>
+                  <span className="font-bold text-blue-600">facebook Đặng Mạnh Hùng</span>
                   {' '}để đăng ký sử dụng full tính năng và không giới hạn.
                 </p>
                 <div className="flex flex-col gap-3">
-                  <a href="https://zalo.me/0348296773" target="_blank" rel="noreferrer"
+                  <a href="https://zalo.me/097 8386 357" target="_blank" rel="noreferrer"
                     className="w-full py-3 bg-blue-500 hover:bg-blue-600 text-white font-bold rounded-xl transition-colors flex items-center justify-center gap-2">
-                    💬 Liên hệ Zalo 0348296773
+                    💬 Liên hệ Zalo 097 8386 357
                   </a>
-                  <a href="https://www.facebook.com/tranhoaithanhvicko/" target="_blank" rel="noreferrer"
+                  <a href="https://www.facebook.com/dangmanhhungbn/" target="_blank" rel="noreferrer"
                     className="w-full py-3 bg-indigo-500 hover:bg-indigo-600 text-white font-bold rounded-xl transition-colors flex items-center justify-center gap-2">
-                    👤 Facebook Trần Hoài Thanh
+                    👤 Facebook Đặng Mạnh Hùng
                   </a>
                   <button onClick={() => setShowTrialExpiredModal(false)}
                     className="w-full py-3 bg-gray-100 hover:bg-gray-200 text-gray-700 font-medium rounded-xl transition-colors">
@@ -674,16 +674,16 @@ const App: React.FC = () => {
             <p className="font-medium text-slate-400">Mọi thông tin vui lòng liên hệ:</p>
             <div className="flex flex-col md:flex-row items-center justify-center gap-2 md:gap-6">
               <a
-                href="https://www.facebook.com/tranhoaithanhvicko/"
+                href="https://www.facebook.com/dangmanhhungbn/"
                 target="_blank"
                 rel="noreferrer"
                 className="hover:text-blue-400 transition-colors duration-200 flex items-center gap-2"
               >
-                <span className="font-bold">Facebook:</span> tranhoaithanhvicko
+                <span className="font-bold">Facebook:</span> dangmanhhungbn
               </a>
               <div className="hidden md:block w-1.5 h-1.5 rounded-full bg-slate-600"></div>
               <span className="hover:text-emerald-400 transition-colors duration-200 cursor-default flex items-center gap-2">
-                <span className="font-bold">Zalo:</span> 0348296773
+                <span className="font-bold">Zalo:</span> 097 8386 357
               </span>
             </div>
           </div>
